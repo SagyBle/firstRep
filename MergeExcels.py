@@ -1,7 +1,6 @@
 import os
 import pandas as pd
 from os import walk
-from datetime import datetime
 
 # Choose new merged file's name
 NAME_OF_NEW_XLSX_FILE = 'output.xlsx'
